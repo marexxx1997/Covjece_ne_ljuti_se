@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covece_ne_ljuti_se", "Covece_ne_ljuti_se\Covece_ne_ljuti_se.csproj", "{8FBD0C90-3D8B-4A74-9B2D-7F92E434066C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FBD0C90-3D8B-4A74-9B2D-7F92E434066C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FBD0C90-3D8B-4A74-9B2D-7F92E434066C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FBD0C90-3D8B-4A74-9B2D-7F92E434066C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FBD0C90-3D8B-4A74-9B2D-7F92E434066C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E898FF8-4E97-4A9C-97C3-EF4047FFD683}
+	EndGlobalSection
+EndGlobal
